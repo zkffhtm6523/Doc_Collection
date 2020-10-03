@@ -21,7 +21,8 @@
 
 ---------------------------------------
 
-## 대기업 취업 시 필요 과정(https://www.youtube.com/channel/UC-TdsOSXDB5A-0uW9oDQQUg)
+## 대기업 취업 시 필요 과정
+### 링크 참조 : https://www.youtube.com/channel/UC-TdsOSXDB5A-0uW9oDQQUg
 
 1. 컴퓨터 공학 기초 과목에 대한 지식
   - 컴퓨터 개론 : 전공자 기준 3~4학년 중간, 기말고사 수준/시험위주가 아닌 이해 위주 학습 필요
