@@ -6,14 +6,14 @@
 4. 자소설닷컴 : https://jasoseol.com/ <br>
 5. HRD-NET : http://www.hrd.go.kr/hrdp/ji/pjibo/PJIBO0100L.do <br>
 6. 로켓펀치 : https://www.rocketpunch.com/<br>
-
+--------------------
 <h2>자소서 관련 사이트</h2>
 1. 
-
+------------------
 <h2>PPT 관련 사이트</h2>
 1. 미리캔버스 : https://www.miricanvas.com/<br>
 - 온라인으로 PPT 무료 제작 가능 및 PDF 파일 변환 가능<br>
-
+-----------------
 <h2>대기업 취업 시 필요 과정</h2>
 
 1. 컴퓨터 공학 기초 과목에 대한 지식
