@@ -7,6 +7,8 @@
 4. 자소설닷컴 : https://jasoseol.com/ <br>
 5. HRD-NET : http://www.hrd.go.kr/hrdp/ji/pjibo/PJIBO0100L.do <br>
 6. 로켓펀치 : https://www.rocketpunch.com/<br>
+7. 잡플렉스 : https://www.jobflex.com/<br>
+8. 사람인 : https://www.saramin.co.kr/zf_user/<br>
 
 ---------------------------------------
 
